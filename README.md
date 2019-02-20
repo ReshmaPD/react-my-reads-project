@@ -1,6 +1,6 @@
-**Edited and previewed using [dillinger](https://dillinger.io/)**
-
 # MyReads Project
+
+[Live Website](https://reshma-myreads-react-webapp.netlify.com)
 
 ## Table of Contents
 * [About the Application](#about-the-application)
@@ -12,7 +12,7 @@
 
 ## About the Application
 
-A **MyReads Projects** which is a web application that contains a list of books on bookshelves named currently reading , want to read and read.New Books can also be searched on the app and added to your bookshelves.This application is build on React
+A bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
 
 
 ## Application-dependencies
