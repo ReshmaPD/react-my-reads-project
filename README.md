@@ -2,6 +2,8 @@
 
 [Live Website](https://reshma-myreads-react-webapp.netlify.com)
 
+**[Starter Code](https://github.com/udacity/reactnd-project-myreads-starter) The starter code from Udacity was provided.Goal was convert a static webpage by adding interactivity to the app by refactoring the static code using React.**
+
 ## Table of Contents
 * [About the Application](#about-the-application)
 * [Application dependencies](#application-dependencies)
